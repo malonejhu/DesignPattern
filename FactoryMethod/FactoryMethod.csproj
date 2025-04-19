@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F5393A77-B9AC-43A7-8BAF-7B11378D6E09}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>FactoryMethod</RootNamespace>
+    <AssemblyName>FactoryMethod</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Example1\ConcreteProduct.cs" />
+    <Compile Include="Example1\Factory.cs" />
+    <Compile Include="Example1\Product.cs" />
+    <Compile Include="Example1\ConcreteFactory.cs" />
+    <Compile Include="Example2\DataBaseLogger.cs" />
+    <Compile Include="Example2\DataBaseLoggerFactory.cs" />
+    <Compile Include="Example2\FileLogger.cs" />
+    <Compile Include="Example2\FileLoggerFactory.cs" />
+    <Compile Include="Example2\Logger.cs" />
+    <Compile Include="Example2\LoggerFactory.cs" />
+    <Compile Include="Practice2\BarChart.cs" />
+    <Compile Include="Practice2\BarChartFactory.cs" />
+    <Compile Include="Practice2\GraphChart.cs" />
+    <Compile Include="Practice2\GraphFactory.cs" />
+    <Compile Include="Practice2\IChart.cs" />
+    <Compile Include="Practice2\IChartFactory.cs" />
+    <Compile Include="Practice1\Benz.cs" />
+    <Compile Include="Practice1\BenzFactory.cs" />
+    <Compile Include="Practice1\BMW.cs" />
+    <Compile Include="Practice1\BMWFactory.cs" />
+    <Compile Include="Practice1\ICar.cs" />
+    <Compile Include="Practice1\ICarFactory.cs" />
+    <Compile Include="Practice3\DB4XML.cs" />
+    <Compile Include="Practice3\DB4XMLFactory.cs" />
+    <Compile Include="Practice3\Excel4XML.cs" />
+    <Compile Include="Practice3\Excel4XMLFactory.cs" />
+    <Compile Include="Practice3\IConvertFactory.cs" />
+    <Compile Include="Practice3\IConvertToXML.cs" />
+    <Compile Include="Practice3\TXT4XML.cs" />
+    <Compile Include="Practice3\TXT4XMLFactory.cs" />
+    <Compile Include="Practice4\GIFFactory.cs" />
+    <Compile Include="Practice4\GIFReader.cs" />
+    <Compile Include="Practice4\IImageReader.cs" />
+    <Compile Include="Practice4\IPICFactory.cs" />
+    <Compile Include="Practice4\JPGFactory.cs" />
+    <Compile Include="Practice4\JPGReader.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
