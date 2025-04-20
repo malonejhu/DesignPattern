@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\DesignPattern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5734099B-315B-4A40-B923-5B9EF2767711}|Builder\\Builder.csproj|c:\\users\\administrator\\desktop\\designpattern\\builder\\practice3\\basemodelbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5734099B-315B-4A40-B923-5B9EF2767711}|Builder\\Builder.csproj|solutionrelative:builder\\practice3\\basemodelbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18541463-115A-4A50-BA43-FC94BEBEC84E}|Proxy\\Proxy.csproj|c:\\users\\administrator\\desktop\\designpattern\\proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18541463-115A-4A50-BA43-FC94BEBEC84E}|Proxy\\Proxy.csproj|solutionrelative:proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5734099B-315B-4A40-B923-5B9EF2767711}|Builder\\Builder.csproj|c:\\users\\administrator\\desktop\\designpattern\\builder\\practice3\\newmodelbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5734099B-315B-4A40-B923-5B9EF2767711}|Builder\\Builder.csproj|solutionrelative:builder\\practice3\\newmodelbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18541463-115A-4A50-BA43-FC94BEBEC84E}|Proxy\\Proxy.csproj|c:\\users\\administrator\\desktop\\designpattern\\proxy\\practice1\\salesobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18541463-115A-4A50-BA43-FC94BEBEC84E}|Proxy\\Proxy.csproj|solutionrelative:proxy\\practice1\\salesobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5734099B-315B-4A40-B923-5B9EF2767711}|Builder\\Builder.csproj|c:\\users\\administrator\\desktop\\designpattern\\builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5734099B-315B-4A40-B923-5B9EF2767711}|Builder\\Builder.csproj|solutionrelative:builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18541463-115A-4A50-BA43-FC94BEBEC84E}|Proxy\\Proxy.csproj|c:\\users\\administrator\\desktop\\designpattern\\proxy\\practice1\\proxysales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18541463-115A-4A50-BA43-FC94BEBEC84E}|Proxy\\Proxy.csproj|solutionrelative:proxy\\practice1\\proxysales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18541463-115A-4A50-BA43-FC94BEBEC84E}|Proxy\\Proxy.csproj|c:\\users\\administrator\\desktop\\designpattern\\proxy\\practice1\\realsalesobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18541463-115A-4A50-BA43-FC94BEBEC84E}|Proxy\\Proxy.csproj|solutionrelative:proxy\\practice1\\realsalesobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,34 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BaseModelBuilder.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\DesignPattern\\Builder\\Practice3\\BaseModelBuilder.cs",
-              "RelativeDocumentMoniker": "Builder\\Practice3\\BaseModelBuilder.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\DesignPattern\\Builder\\Practice3\\BaseModelBuilder.cs",
-              "RelativeToolTip": "Builder\\Practice3\\BaseModelBuilder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T02:13:27.1Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NewModelBuilder.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\DesignPattern\\Builder\\Practice3\\NewModelBuilder.cs",
-              "RelativeDocumentMoniker": "Builder\\Practice3\\NewModelBuilder.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\DesignPattern\\Builder\\Practice3\\NewModelBuilder.cs",
-              "RelativeToolTip": "Builder\\Practice3\\NewModelBuilder.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAA0wAgAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T02:09:42.164Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -64,15 +42,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\DesignPattern\\Builder\\Program.cs",
-              "RelativeDocumentMoniker": "Builder\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\DesignPattern\\Builder\\Program.cs",
-              "RelativeToolTip": "Builder\\Program.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAAA0wIMAAABFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\DesignPattern\\Proxy\\Program.cs",
+              "RelativeDocumentMoniker": "Proxy\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\DesignPattern\\Proxy\\Program.cs*",
+              "RelativeToolTip": "Proxy\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T02:08:48.477Z",
+              "WhenOpened": "2025-04-20T02:16:59.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RealSalesObject.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\DesignPattern\\Proxy\\Practice1\\RealSalesObject.cs",
+              "RelativeDocumentMoniker": "Proxy\\Practice1\\RealSalesObject.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\DesignPattern\\Proxy\\Practice1\\RealSalesObject.cs",
+              "RelativeToolTip": "Proxy\\Practice1\\RealSalesObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T02:13:53.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProxySales.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\DesignPattern\\Proxy\\Practice1\\ProxySales.cs",
+              "RelativeDocumentMoniker": "Proxy\\Practice1\\ProxySales.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\DesignPattern\\Proxy\\Practice1\\ProxySales.cs",
+              "RelativeToolTip": "Proxy\\Practice1\\ProxySales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T02:12:31.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalesObject.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\DesignPattern\\Proxy\\Practice1\\SalesObject.cs",
+              "RelativeDocumentMoniker": "Proxy\\Practice1\\SalesObject.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\DesignPattern\\Proxy\\Practice1\\SalesObject.cs",
+              "RelativeToolTip": "Proxy\\Practice1\\SalesObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T02:12:10.055Z",
               "EditorCaption": ""
             }
           ]
