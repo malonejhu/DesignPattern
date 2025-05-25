@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\DesignPattern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18541463-115A-4A50-BA43-FC94BEBEC84E}|Proxy\\Proxy.csproj|c:\\users\\administrator\\desktop\\designpattern\\proxy\\practice1\\realsalesobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18541463-115A-4A50-BA43-FC94BEBEC84E}|Proxy\\Proxy.csproj|solutionrelative:proxy\\practice1\\realsalesobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{305CD3DE-8F01-41CC-8789-AAE70E5A8777}|ChainOfResponsibility\\ChainOfResponsibility.csproj|c:\\users\\administrator\\desktop\\designpattern\\chainofresponsibility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305CD3DE-8F01-41CC-8789-AAE70E5A8777}|ChainOfResponsibility\\ChainOfResponsibility.csproj|solutionrelative:chainofresponsibility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18541463-115A-4A50-BA43-FC94BEBEC84E}|Proxy\\Proxy.csproj|c:\\users\\administrator\\desktop\\designpattern\\proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18541463-115A-4A50-BA43-FC94BEBEC84E}|Proxy\\Proxy.csproj|solutionrelative:proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{305CD3DE-8F01-41CC-8789-AAE70E5A8777}|ChainOfResponsibility\\ChainOfResponsibility.csproj|c:\\users\\administrator\\desktop\\designpattern\\chainofresponsibility\\practice2\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305CD3DE-8F01-41CC-8789-AAE70E5A8777}|ChainOfResponsibility\\ChainOfResponsibility.csproj|solutionrelative:chainofresponsibility\\practice2\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18541463-115A-4A50-BA43-FC94BEBEC84E}|Proxy\\Proxy.csproj|c:\\users\\administrator\\desktop\\designpattern\\proxy\\practice1\\salesobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18541463-115A-4A50-BA43-FC94BEBEC84E}|Proxy\\Proxy.csproj|solutionrelative:proxy\\practice1\\salesobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{305CD3DE-8F01-41CC-8789-AAE70E5A8777}|ChainOfResponsibility\\ChainOfResponsibility.csproj|c:\\users\\administrator\\desktop\\designpattern\\chainofresponsibility\\practice2\\predisent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305CD3DE-8F01-41CC-8789-AAE70E5A8777}|ChainOfResponsibility\\ChainOfResponsibility.csproj|solutionrelative:chainofresponsibility\\practice2\\predisent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18541463-115A-4A50-BA43-FC94BEBEC84E}|Proxy\\Proxy.csproj|c:\\users\\administrator\\desktop\\designpattern\\proxy\\practice1\\proxysales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18541463-115A-4A50-BA43-FC94BEBEC84E}|Proxy\\Proxy.csproj|solutionrelative:proxy\\practice1\\proxysales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{305CD3DE-8F01-41CC-8789-AAE70E5A8777}|ChainOfResponsibility\\ChainOfResponsibility.csproj|c:\\users\\administrator\\desktop\\designpattern\\chainofresponsibility\\practice2\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305CD3DE-8F01-41CC-8789-AAE70E5A8777}|ChainOfResponsibility\\ChainOfResponsibility.csproj|solutionrelative:chainofresponsibility\\practice2\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305CD3DE-8F01-41CC-8789-AAE70E5A8777}|ChainOfResponsibility\\ChainOfResponsibility.csproj|c:\\users\\administrator\\desktop\\designpattern\\chainofresponsibility\\practice2\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305CD3DE-8F01-41CC-8789-AAE70E5A8777}|ChainOfResponsibility\\ChainOfResponsibility.csproj|solutionrelative:chainofresponsibility\\practice2\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,54 +46,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\DesignPattern\\Proxy\\Program.cs",
-              "RelativeDocumentMoniker": "Proxy\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\DesignPattern\\Proxy\\Program.cs",
-              "RelativeToolTip": "Proxy\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T02:16:59.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RealSalesObject.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\DesignPattern\\Proxy\\Practice1\\RealSalesObject.cs",
-              "RelativeDocumentMoniker": "Proxy\\Practice1\\RealSalesObject.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\DesignPattern\\Proxy\\Practice1\\RealSalesObject.cs",
-              "RelativeToolTip": "Proxy\\Practice1\\RealSalesObject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\DesignPattern\\ChainOfResponsibility\\Program.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\DesignPattern\\ChainOfResponsibility\\Program.cs*",
+              "RelativeToolTip": "ChainOfResponsibility\\Program.cs*",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAzwE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T02:13:53.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProxySales.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\DesignPattern\\Proxy\\Practice1\\ProxySales.cs",
-              "RelativeDocumentMoniker": "Proxy\\Practice1\\ProxySales.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\DesignPattern\\Proxy\\Practice1\\ProxySales.cs",
-              "RelativeToolTip": "Proxy\\Practice1\\ProxySales.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T02:12:31.111Z",
+              "WhenOpened": "2025-05-25T06:06:33.608Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SalesObject.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\DesignPattern\\Proxy\\Practice1\\SalesObject.cs",
-              "RelativeDocumentMoniker": "Proxy\\Practice1\\SalesObject.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\DesignPattern\\Proxy\\Practice1\\SalesObject.cs",
-              "RelativeToolTip": "Proxy\\Practice1\\SalesObject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Title": "Predisent.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\DesignPattern\\ChainOfResponsibility\\Practice2\\Predisent.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\Practice2\\Predisent.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\DesignPattern\\ChainOfResponsibility\\Practice2\\Predisent.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\Practice2\\Predisent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T02:12:10.055Z",
+              "WhenOpened": "2025-05-25T06:04:45.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\DesignPattern\\ChainOfResponsibility\\Practice2\\Manager.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\Practice2\\Manager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\DesignPattern\\ChainOfResponsibility\\Practice2\\Manager.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\Practice2\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:03:53.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Director.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\DesignPattern\\ChainOfResponsibility\\Practice2\\Director.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\Practice2\\Director.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\DesignPattern\\ChainOfResponsibility\\Practice2\\Director.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\Practice2\\Director.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:01:36.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Boss.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\DesignPattern\\ChainOfResponsibility\\Practice2\\Boss.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\Practice2\\Boss.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\DesignPattern\\ChainOfResponsibility\\Practice2\\Boss.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\Practice2\\Boss.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T05:59:45.876Z",
               "EditorCaption": ""
             }
           ]
